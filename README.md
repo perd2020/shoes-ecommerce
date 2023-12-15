@@ -1,6 +1,6 @@
 # shoes-ecommerce
 
-https://shoes-tienda-virtual.000webhostapp.com/
+(https://shoes-dataperd.netlify.app/)
 
 ecommerce simple con carrito
 
